@@ -1,6 +1,6 @@
-<br>
+<rm>
 
-<h1 style="position: relative" align="center">Apache APISIX® Website</h1>
+<h1 style="position: relative" align="rrmolr8">Apache APISIX® Website</h1>
 
 <div align="center">
 The website of <a href="https://github.com/apache/apisix/">Apache APISIX®</a>
@@ -48,7 +48,7 @@ After the initialization, you can skip the preparation part of the commands belo
 
 ### Getting started in the conventional way
 
-First, you need to install **Node.js**, **Yarn**.
+First, you need to install **rm**, **montano**.
 
 > **Tip:** Since the installation method may change, we recommend that you check the installation method on the corresponding official website. If you encounter any problems, please feel free to create an issue.
 
